@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CA_State_Lands_Commission_Leases" id="CA_State_Lands_Commission_Leases">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="GlobalID" type="string"></SimpleField>
+	<SimpleField name="CreationDate" type="string"></SimpleField>
+	<SimpleField name="Creator" type="string"></SimpleField>
+	<SimpleField name="EditDate" type="string"></SimpleField>
+	<SimpleField name="Editor" type="string"></SimpleField>
+	<SimpleField name="RecordStatus" type="string"></SimpleField>
+	<SimpleField name="LeaseNum" type="string"></SimpleField>
+	<SimpleField name="GeneralLocation" type="string"></SimpleField>
+	<SimpleField name="LeaseorPermit" type="string"></SimpleField>
+	<SimpleField name="TypeofLease" type="string"></SimpleField>
+	<SimpleField name="LeaseStartDate" type="string"></SimpleField>
+	<SimpleField name="LeaseExpirationDate" type="string"></SimpleField>
+	<SimpleField name="SLCApprovalDate" type="string"></SimpleField>
+	<SimpleField name="MinuteItem" type="string"></SimpleField>
+	<SimpleField name="Improvements" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+</Schema>
+<Folder><name>CA_State_Lands_Commission_Leases</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="GlobalID">{D041E238-F0BD-4FDC-A13A-000FD689DD18}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">1576</SimpleData>
+		<SimpleData name="GeneralLocation">Guadalupe Slough</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Dredging</SimpleData>
+		<SimpleData name="LeaseStartDate">11/07/1955</SimpleData>
+		<SimpleData name="SLCApprovalDate">11/30/1955</SimpleData>
+		<SimpleData name="MinuteItem">29</SimpleData>
+		<SimpleData name="Latitude">37.4358720000</SimpleData>
+		<SimpleData name="Longitude">-122.0274450000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.027445,37.4358720000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="GlobalID">{87950801-47E2-402B-B5F8-0015F2D6BB30}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5343</SimpleData>
+		<SimpleData name="GeneralLocation">Cordelia Slough, T4N R2W</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">05/01/1977</SimpleData>
+		<SimpleData name="SLCApprovalDate">07/26/1977</SimpleData>
+		<SimpleData name="MinuteItem">8</SimpleData>
+		<SimpleData name="Latitude">38.1568880000</SimpleData>
+		<SimpleData name="Longitude">-122.1135690000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.113569,38.156888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="GlobalID">{09F483E7-FD69-454D-BC9F-001FB3554DE6}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">9085</SimpleData>
+		<SimpleData name="GeneralLocation">dry lake bed of Owens Lake</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/23/2013</SimpleData>
+		<SimpleData name="LeaseExpirationDate">08/22/2033</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/21/2018</SimpleData>
+		<SimpleData name="MinuteItem">C62</SimpleData>
+		<SimpleData name="Latitude">36.5240960000</SimpleData>
+		<SimpleData name="Longitude">-117.9440450000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.944045,36.524096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="GlobalID">{CFC68520-9E69-4E3A-BD28-002A436C9272}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5853</SimpleData>
+		<SimpleData name="GeneralLocation">American River at the Sunrise crossing</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Protective Structure Use</SimpleData>
+		<SimpleData name="LeaseStartDate">06/01/1980</SimpleData>
+		<SimpleData name="LeaseExpirationDate">05/31/2005</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/26/1980</SimpleData>
+		<SimpleData name="MinuteItem">10</SimpleData>
+		<SimpleData name="Latitude">38.6328140000</SimpleData>
+		<SimpleData name="Longitude">-121.2696140000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.269614,38.6328140000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="GlobalID">{8250F7B1-2B1A-4A73-9E1B-003EF980ADBC}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">9085</SimpleData>
+		<SimpleData name="GeneralLocation">dry lake bed of Owens Lake</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/23/2013</SimpleData>
+		<SimpleData name="LeaseExpirationDate">08/22/2033</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/21/2018</SimpleData>
+		<SimpleData name="MinuteItem">C62</SimpleData>
+		<SimpleData name="Latitude">36.4427040000</SimpleData>
+		<SimpleData name="Longitude">-117.8734210000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.873421,36.442704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="GlobalID">{8E54FA48-1F5F-4065-8A6C-00536FD1D3B5}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5499</SimpleData>
+		<SimpleData name="GeneralLocation">Lake Tahoe, adjacent to 6500 West Lake Boulevard, near Homewood</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Commercial Use</SimpleData>
+		<SimpleData name="LeaseStartDate">12/30/2010</SimpleData>
+		<SimpleData name="LeaseExpirationDate">12/29/2025</SimpleData>
+		<SimpleData name="SLCApprovalDate">10/22/2020</SimpleData>
+		<SimpleData name="MinuteItem">EO Rpt</SimpleData>
+		<SimpleData name="Latitude">39.0743380000</SimpleData>
+		<SimpleData name="Longitude">-120.1413710000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.141371,39.0743380000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="GlobalID">{AD3799D5-5560-413D-8F8E-0065A624CE5F}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">4913</SimpleData>
+		<SimpleData name="GeneralLocation">Cache Slough, adjacent to 7504 Bartlett Road, near Dixon</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">10/25/2022</SimpleData>
+		<SimpleData name="LeaseExpirationDate">10/24/2032</SimpleData>
+		<SimpleData name="SLCApprovalDate">10/25/2022</SimpleData>
+		<SimpleData name="MinuteItem">34</SimpleData>
+		<SimpleData name="Latitude">38.3075390000</SimpleData>
+		<SimpleData name="Longitude">-121.7597720000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.759772,38.3075390000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="GlobalID">{AEF9CCCF-5504-4599-827B-006C3A0752BE}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">2432</SimpleData>
+		<SimpleData name="GeneralLocation">Stockton Slough (Stockton Deep Water Channel) and Mormon Slough, in the city of Stockton</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">07/30/2008</SimpleData>
+		<SimpleData name="LeaseExpirationDate">07/29/2033</SimpleData>
+		<SimpleData name="SLCApprovalDate">03/29/2012</SimpleData>
+		<SimpleData name="MinuteItem">64</SimpleData>
+		<SimpleData name="Latitude">37.9524950000</SimpleData>
+		<SimpleData name="Longitude">-121.3145280000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.314528,37.9524950000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="GlobalID">{2EC6AAF3-200A-43AD-95F6-006FE182530E}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">7278</SimpleData>
+		<SimpleData name="GeneralLocation">Lake Tahoe, adjacent to 4450 North Lake Boulevard, near Carnelian Bay</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">11/22/2018</SimpleData>
+		<SimpleData name="LeaseExpirationDate">11/21/2028</SimpleData>
+		<SimpleData name="SLCApprovalDate">04/05/2019</SimpleData>
+		<SimpleData name="MinuteItem">C04</SimpleData>
+		<SimpleData name="Latitude">39.2144880000</SimpleData>
+		<SimpleData name="Longitude">-120.0872050000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.087205,39.2144880000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="GlobalID">{898BEE2B-97AD-4AA5-8CB5-00746E168547}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5984</SimpleData>
+		<SimpleData name="GeneralLocation">Cabin Slough at Sherman Island</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">05/01/1981</SimpleData>
+		<SimpleData name="LeaseExpirationDate">04/30/2030</SimpleData>
+		<SimpleData name="SLCApprovalDate">04/29/1981</SimpleData>
+		<SimpleData name="MinuteItem">3</SimpleData>
+		<SimpleData name="Latitude">38.0286220000</SimpleData>
+		<SimpleData name="Longitude">-121.8139180000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.813918,38.028622</coordinates></Point>
+  </Placemark>
+		<SimpleData name="GeneralLocation">State school land within a portion of Section 36, T6S R5W, SBM, near Lake Elsinore</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">09/01/2016</SimpleData>
+		<SimpleData name="LeaseExpirationDate">08/31/2041</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/09/2016</SimpleData>
+		<SimpleData name="MinuteItem">73</SimpleData>
+		<SimpleData name="Latitude">33.6002780000</SimpleData>
+		<SimpleData name="Longitude">-117.3508310000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.350831,33.6002780000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">284</SimpleData>
+		<SimpleData name="GlobalID">{093AF567-85C5-4840-9A9C-0ED5CF12902F}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">8308</SimpleData>
+		<SimpleData name="GeneralLocation">Lake Tahoe, adjacent to 3344 Edgewater Drive, near Tahoe City</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">06/01/2019</SimpleData>
+		<SimpleData name="LeaseExpirationDate">05/31/2029</SimpleData>
+		<SimpleData name="SLCApprovalDate">08/23/2019</SimpleData>
+		<SimpleData name="MinuteItem">05</SimpleData>
+		<SimpleData name="Latitude">39.1844210000</SimpleData>
+		<SimpleData name="Longitude">-120.0961360000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.096136,39.184421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">285</SimpleData>
+		<SimpleData name="GlobalID">{C73DEF71-0372-49F1-8A49-0EDAB13F2FF1}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">4522</SimpleData>
+		<SimpleData name="GeneralLocation">Mokelumne River (mile 22.9), Lost Slough (mile 1.6), and Middle Slough (mile 0.5), serving I-5, near Thornton</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">04/01/1970</SimpleData>
+		<SimpleData name="SLCApprovalDate">10/22/1970</SimpleData>
+		<SimpleData name="MinuteItem">6</SimpleData>
+		<SimpleData name="Latitude">38.2547970000</SimpleData>
+		<SimpleData name="Longitude">-121.4481220000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.448122,38.2547970000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">286</SimpleData>
+		<SimpleData name="GlobalID">{C3662D28-00CA-4A3B-91A1-0EE5737E1DC7}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">9085</SimpleData>
+		<SimpleData name="GeneralLocation">dry lake bed of Owens Lake</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/23/2013</SimpleData>
+		<SimpleData name="LeaseExpirationDate">08/22/2033</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/21/2018</SimpleData>
+		<SimpleData name="MinuteItem">C62</SimpleData>
+		<SimpleData name="Latitude">36.3886690000</SimpleData>
+		<SimpleData name="Longitude">-117.9553520000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.955352,36.388669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">287</SimpleData>
+		<SimpleData name="GlobalID">{D9E75773-FDC5-4653-ABDE-0EF07885979E}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">3060</SimpleData>
+		<SimpleData name="GeneralLocation">Colorado River near Lost Lake Landing, between Section 9 and 16, T2S R24E, SBM</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">11/06/1963</SimpleData>
+		<SimpleData name="SLCApprovalDate">11/06/1963</SimpleData>
+		<SimpleData name="MinuteItem">5</SimpleData>
+		<SimpleData name="Latitude">34.0079110000</SimpleData>
+		<SimpleData name="Longitude">-114.4679220000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.467922,34.007911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">288</SimpleData>
+		<SimpleData name="GlobalID">{103507AF-8ADB-45CC-8C67-0EF172B89CCB}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">8284</SimpleData>
+		<SimpleData name="GeneralLocation">Main Channel of Huntington Harbour, adjacent to 3582 Venture Drive, Huntington Beach</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational and Protective Structure Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/23/2019</SimpleData>
+		<SimpleData name="LeaseExpirationDate">08/22/2029</SimpleData>
+		<SimpleData name="SLCApprovalDate">08/23/2019</SimpleData>
+		<SimpleData name="MinuteItem">50</SimpleData>
+		<SimpleData name="Latitude">33.7227250000</SimpleData>
+		<SimpleData name="Longitude">-118.0662050000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.066205,33.722725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">289</SimpleData>
+		<SimpleData name="GlobalID">{2A048C71-7B12-48F9-A4CC-0EF4B4D0E2D9}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5836</SimpleData>
+		<SimpleData name="GeneralLocation">Section 9, 15 and 17, T35N R5W</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Other</SimpleData>
+		<SimpleData name="LeaseStartDate">05/29/1980</SimpleData>
+		<SimpleData name="LeaseExpirationDate">05/28/2029</SimpleData>
+		<SimpleData name="SLCApprovalDate">05/29/1980</SimpleData>
+		<SimpleData name="MinuteItem">20</SimpleData>
+		<SimpleData name="Latitude">40.8878920000</SimpleData>
+		<SimpleData name="Longitude">-122.4395330000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.439533,40.8878920000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">290</SimpleData>
+		<SimpleData name="GlobalID">{685A0306-B076-4231-9C70-0F0699AB4ED5}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">4565</SimpleData>
+		<SimpleData name="GeneralLocation">approximately 349.72 acres, more or less, of State School Land, in portions of Section 19 and 30, T17S R37E, MDM, Section 7, T18S R37E, and Section 6, T18S R37E, MDM, Owens Lake</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Grazing Use</SimpleData>
+		<SimpleData name="LeaseStartDate">04/23/2015</SimpleData>
+		<SimpleData name="LeaseExpirationDate">04/22/2025</SimpleData>
+		<SimpleData name="SLCApprovalDate">04/23/2015</SimpleData>
+		<SimpleData name="MinuteItem">97</SimpleData>
+		<SimpleData name="Latitude">36.4256320000</SimpleData>
+		<SimpleData name="Longitude">-118.0136730000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.013673,36.4256320000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">291</SimpleData>
+		<SimpleData name="GlobalID">{5A908F90-D14F-4759-A200-0F08F8505A34}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">8494</SimpleData>
+		<SimpleData name="GeneralLocation">Sacramento River, adjacent to 1715 Garden Highway, city of Sacramento</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational and Protective Structure Use</SimpleData>
+		<SimpleData name="LeaseStartDate">10/01/2013</SimpleData>
+		<SimpleData name="LeaseExpirationDate">09/30/2023</SimpleData>
+		<SimpleData name="SLCApprovalDate">08/23/2018</SimpleData>
+		<SimpleData name="MinuteItem">EO Rpt</SimpleData>
+		<SimpleData name="Latitude">38.6050600000</SimpleData>
+		<SimpleData name="Longitude">-121.5281110000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.528111,38.60506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">292</SimpleData>
+		<SimpleData name="GlobalID">{6CBA1D58-DC11-457E-BF77-0F0EC27E46CF}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">8905</SimpleData>
+		<SimpleData name="GeneralLocation">San Joaquin River at Atherton Cove, adjacent to 3614 Country Club Boulevard, near Stockton</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational and Protective Structure Use</SimpleData>
+		<SimpleData name="LeaseStartDate">12/10/2020</SimpleData>
+		<SimpleData name="LeaseExpirationDate">12/09/2030</SimpleData>
+		<SimpleData name="SLCApprovalDate">10/22/2020</SimpleData>
+		<SimpleData name="MinuteItem">19</SimpleData>
+		<SimpleData name="Latitude">37.9598230000</SimpleData>
+		<SimpleData name="Longitude">-121.3502840000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.350284,37.959823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">293</SimpleData>
+		<SimpleData name="GlobalID">{2B091897-12F2-47E8-8BD7-0F24D3F54CEA}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">634</SimpleData>
+		<SimpleData name="GeneralLocation">Guadalupe Canal</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">10/14/1948</SimpleData>
+		<SimpleData name="SLCApprovalDate">07/16/1951</SimpleData>
+		<SimpleData name="MinuteItem">4</SimpleData>
+		<SimpleData name="Latitude">37.6869630000</SimpleData>
+		<SimpleData name="Longitude">-122.3988550000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.398855,37.686963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">294</SimpleData>
+		<SimpleData name="GlobalID">{E13532AF-9692-4531-A476-0F346BCD37FA}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">7902</SimpleData>
+		<SimpleData name="GeneralLocation">Pit River, near Alturas</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/21/1996</SimpleData>
+		<SimpleData name="LeaseExpirationDate">08/20/2045</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/28/2019</SimpleData>
+		<SimpleData name="MinuteItem">17</SimpleData>
+		<SimpleData name="Latitude">41.4897880000</SimpleData>
+		<SimpleData name="Longitude">-120.6007820000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.600782,41.489788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">295</SimpleData>
+		<SimpleData name="GlobalID">{C6C360C0-AE12-4864-94EF-0F67F4389836}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">6902</SimpleData>
+		<SimpleData name="GeneralLocation">Sacramento River, adjacent to 32946 South River Road, Clarksburg</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational and Protective Structure Use</SimpleData>
+		<SimpleData name="LeaseStartDate">06/29/2015</SimpleData>
+		<SimpleData name="LeaseExpirationDate">06/28/2025</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/29/2015</SimpleData>
+		<SimpleData name="MinuteItem">9</SimpleData>
+		<SimpleData name="Latitude">38.4593300000</SimpleData>
+		<SimpleData name="Longitude">-121.5039630000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.503963,38.4593300000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">296</SimpleData>
+		<SimpleData name="GlobalID">{277F7402-D0E0-40CE-9DE4-0F7ADBC5CF31}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">6382</SimpleData>
+		<SimpleData name="GeneralLocation">Sacramento River, adjacent to 11779 State Highway 160, near Courtland</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">03/29/2022</SimpleData>
+		<SimpleData name="LeaseExpirationDate">03/28/2032</SimpleData>
+		<SimpleData name="SLCApprovalDate">12/08/2021</SimpleData>
+		<SimpleData name="MinuteItem">50</SimpleData>
+		<SimpleData name="Latitude">38.3304070000</SimpleData>
+		<SimpleData name="Longitude">-121.5718090000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.571809,38.330407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">297</SimpleData>
+		<SimpleData name="GlobalID">{C2B8B4CA-27D0-4A7C-A7C4-0F8DD9204F73}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">7461</SimpleData>
+		<SimpleData name="GeneralLocation">Calaveras River, adjacent to 2975 Calariva Drive, near the city of Stockton</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">12/03/2013</SimpleData>
+		<SimpleData name="LeaseExpirationDate">12/02/2023</SimpleData>
+		<SimpleData name="SLCApprovalDate">10/14/2014</SimpleData>
+		<SimpleData name="MinuteItem">61</SimpleData>
+		<SimpleData name="Latitude">37.9753510000</SimpleData>
+		<SimpleData name="Longitude">-121.3459880000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.345988,37.975351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">298</SimpleData>
+		<SimpleData name="GlobalID">{8E90544E-E743-4810-AEB7-0F997BD01C3C}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">8971</SimpleData>
+		<SimpleData name="GeneralLocation">State school lands in Section 36, T1S R31E, MDM, northeast of Benton Hot Springs</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">01/26/2012</SimpleData>
+		<SimpleData name="LeaseExpirationDate">01/25/2032</SimpleData>
+		<SimpleData name="SLCApprovalDate">12/08/2021</SimpleData>
+		<SimpleData name="MinuteItem">64</SimpleData>
+		<SimpleData name="Latitude">37.8212620000</SimpleData>
+		<SimpleData name="Longitude">-118.5151370000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.515137,37.821262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">299</SimpleData>
+		<SimpleData name="GlobalID">{3D9B30B5-DAE8-485F-86DF-0F9A00448749}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">8267</SimpleData>
+		<SimpleData name="GeneralLocation">three locations along the American River, near Howe Avenue and Watt Avenue, in the city of Sacramento and near Hazel Avenue, in the town of Fair Oaks</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">01/01/2001</SimpleData>
+		<SimpleData name="LeaseExpirationDate">12/31/2025</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/05/2001</SimpleData>
+		<SimpleData name="MinuteItem">53</SimpleData>
+		<SimpleData name="Latitude">38.5598520000</SimpleData>
+		<SimpleData name="Longitude">-121.4049940000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.404994,38.559852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">300</SimpleData>
+		<SimpleData name="GlobalID">{DD15C5D2-8184-42DB-89E5-0F9A743C62E9}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5654</SimpleData>
+		<SimpleData name="GeneralLocation">San Joaquin River, adjacent to 2 Atherton Island, near the city of Stockton</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational and Protective Structure Use</SimpleData>
+		<SimpleData name="LeaseStartDate">04/26/2009</SimpleData>
+		<SimpleData name="LeaseExpirationDate">04/25/2019</SimpleData>
+		<SimpleData name="SLCApprovalDate">08/11/2009</SimpleData>
+		<SimpleData name="MinuteItem">12</SimpleData>
+		<SimpleData name="Latitude">37.9586210000</SimpleData>
+		<SimpleData name="Longitude">-121.3481840000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.348184,37.9586210000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">301</SimpleData>
+		<SimpleData name="GlobalID">{2B2BC6A8-F5FB-472D-A77A-0FA52449C2FB}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">4678</SimpleData>
+		<SimpleData name="GeneralLocation">Lake Tahoe, adjacent to #1 Valhalla Road, near South Lake Tahoe</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/03/2020</SimpleData>
+		<SimpleData name="LeaseExpirationDate">08/02/2040</SimpleData>
+		<SimpleData name="SLCApprovalDate">10/25/2022</SimpleData>
+		<SimpleData name="MinuteItem">26</SimpleData>
+		<SimpleData name="Latitude">38.9393730000</SimpleData>
+		<SimpleData name="Longitude">-120.0421020000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.042102,38.939373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">302</SimpleData>
+		<SimpleData name="GlobalID">{06522D3B-60DF-42A3-91D6-0FB06CBC2496}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5327</SimpleData>
+		<SimpleData name="GeneralLocation">San Francisco Bay at Foster City</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">06/30/1977</SimpleData>
+		<SimpleData name="LeaseExpirationDate">06/29/2043</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/30/1977</SimpleData>
+		<SimpleData name="MinuteItem">24</SimpleData>
+		<SimpleData name="Latitude">37.5702730000</SimpleData>
+		<SimpleData name="Longitude">-122.2569940000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.256994,37.570273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">303</SimpleData>
+		<SimpleData name="GlobalID">{4EF61256-5417-44A9-B963-0FB48355E071}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">1977</SimpleData>
+		<SimpleData name="GeneralLocation">Corte Madera Creek, adjacent to Bon Air Road, near Larkspur</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">04/23/2015</SimpleData>
+		<SimpleData name="LeaseExpirationDate">04/22/2040</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/28/2019</SimpleData>
+		<SimpleData name="MinuteItem">27</SimpleData>
+		<SimpleData name="Latitude">37.9446300000</SimpleData>
+		<SimpleData name="Longitude">-122.5383480000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.538348,37.9446300000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">304</SimpleData>
+		<SimpleData name="GlobalID">{503B89A8-82C7-46F7-AB52-0FBEFEBA3924}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5482</SimpleData>
+		<SimpleData name="GeneralLocation">Sacramento River, near the city of Redding, known as Salt Creek, Turtle Bay, Kutras Lake, South Cypress Side Channel, Tobiasson Island, Shea Island and Levee, South Shea Levee, Kapusta, Anderson River Park, Lake California, and Rio Vista</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/09/2000</SimpleData>
+		<SimpleData name="LeaseExpirationDate">08/08/2021</SimpleData>
+		<SimpleData name="SLCApprovalDate">04/29/2020</SimpleData>
+		<SimpleData name="MinuteItem">75</SimpleData>
+		<SimpleData name="Latitude">40.5865330000</SimpleData>
+		<SimpleData name="Longitude">-122.3672740000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.367274,40.586533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">305</SimpleData>
+		<SimpleData name="GlobalID">{3ABFC751-8950-4510-9A45-0FD0E5771775}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">7941</SimpleData>
+		<SimpleData name="GeneralLocation">Donner Lake, adjacent to 15130 Point Drive, near Truckee</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">10/22/2020</SimpleData>
+		<SimpleData name="LeaseExpirationDate">10/21/2030</SimpleData>
+		<SimpleData name="SLCApprovalDate">10/22/2020</SimpleData>
+		<SimpleData name="MinuteItem">12</SimpleData>
+		<SimpleData name="Latitude">39.3174190000</SimpleData>
+		<SimpleData name="Longitude">-120.2803540000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.280354,39.317419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">306</SimpleData>
+		<SimpleData name="GlobalID">{E66FA8B7-13C3-4928-9ECA-0FD482564CF2}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">3934</SimpleData>
+		<SimpleData name="GeneralLocation">Three Mile Slough at Sherman Island, adjacent to 17641 Sherman Island East Levee Road, near Rio Vista</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Commercial Use</SimpleData>
+		<SimpleData name="LeaseStartDate">10/22/2020</SimpleData>
+		<SimpleData name="LeaseExpirationDate">10/21/2040</SimpleData>
+		<SimpleData name="SLCApprovalDate">10/22/2020</SimpleData>
+		<SimpleData name="MinuteItem">27</SimpleData>
+		<SimpleData name="Latitude">38.1126310000</SimpleData>
+		<SimpleData name="Longitude">-121.6836790000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.683679,38.1126310000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">307</SimpleData>
+		<SimpleData name="GlobalID">{2C848B4F-3293-4CC7-8BCD-0FDDF2D045B7}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">4867</SimpleData>
+		<SimpleData name="GeneralLocation">Corte Madera Creek adjacent to 517-533 Larkspur Plaza Drive, city of Larkspur</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">03/01/2013</SimpleData>
+		<SimpleData name="LeaseExpirationDate">02/28/2023</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/27/2018</SimpleData>
+		<SimpleData name="MinuteItem">C56</SimpleData>
+		<SimpleData name="Latitude">37.9422700000</SimpleData>
+		<SimpleData name="Longitude">-122.5346800000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.53468,37.9422700000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">308</SimpleData>
+		<SimpleData name="GlobalID">{07A2DA7A-9615-47DB-BE6E-10014A0C92BC}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">9385</SimpleData>
+		<SimpleData name="GeneralLocation">State fee-owned school land (State Parcel Number 162-004); within Section 16, T22S R44E, MDM, about 1 mile south of the town of Ballarat</SimpleData>
+		<SimpleData name="LeaseorPermit">Mineral Resource Lease</SimpleData>
+		<SimpleData name="TypeofLease">Mineral Prospect Permit</SimpleData>
+		<SimpleData name="LeaseStartDate">01/01/2017</SimpleData>
+		<SimpleData name="LeaseExpirationDate">12/31/2018</SimpleData>
+		<SimpleData name="SLCApprovalDate">12/06/2016</SimpleData>
+		<SimpleData name="MinuteItem">C56</SimpleData>
+		<SimpleData name="Latitude">36.0210000000</SimpleData>
+		<SimpleData name="Longitude">-117.2330000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.233,36.0210000000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">309</SimpleData>
+		<SimpleData name="GlobalID">{5FA0508D-DC54-44CE-88FF-100707135AD7}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">3000</SimpleData>
+		<SimpleData name="GeneralLocation">American River between Fair Oaks and Folsom Boulevard, just east of Watt Avenue bridge in Sacramento, Section 7, T8N R6E, MDM</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">04/25/1963</SimpleData>
+		<SimpleData name="SLCApprovalDate">04/25/1963</SimpleData>
+		<SimpleData name="MinuteItem">3</SimpleData>
+		<SimpleData name="Latitude">38.5683920000</SimpleData>
+		<SimpleData name="Longitude">-121.3690070000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.369007,38.5683920000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">310</SimpleData>
+		<SimpleData name="GlobalID">{40363DF2-3290-43EE-918A-102B016CF7A0}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">8250</SimpleData>
+		<SimpleData name="GeneralLocation">Lake Tahoe, adjacent to 5090 West Lake Boulevard, Homewood</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/07/2022</SimpleData>
+		<SimpleData name="LeaseExpirationDate">08/06/2032</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/25/2022</SimpleData>
+		<SimpleData name="MinuteItem">11</SimpleData>
+		<SimpleData name="Latitude">39.0869600000</SimpleData>
+		<SimpleData name="Longitude">-120.1599190000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.159919,39.08696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">311</SimpleData>
+		<SimpleData name="GlobalID">{167BD5A6-B0A0-459E-82B3-103EECE950D4}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">3910</SimpleData>
+		<SimpleData name="GeneralLocation">Sacramento River, adjacent to 14554 State Highway 160, near Walnut Grove</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">10/24/2019</SimpleData>
+		<SimpleData name="LeaseExpirationDate">10/23/2029</SimpleData>
+		<SimpleData name="SLCApprovalDate">10/24/2019</SimpleData>
+		<SimpleData name="MinuteItem">39</SimpleData>
+		<SimpleData name="Latitude">38.1923290000</SimpleData>
+		<SimpleData name="Longitude">-121.5709500000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.57095,38.192329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">312</SimpleData>
+		<SimpleData name="GlobalID">{85E7051B-26C7-49F0-9A95-104E5C39E041}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">4203</SimpleData>
+		<SimpleData name="GeneralLocation">Lake Tahoe, adjacent to 4156 Ferguson Avenue, near Carnelian Bay</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">09/17/2022</SimpleData>
+		<SimpleData name="LeaseExpirationDate">09/16/2032</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/23/2022</SimpleData>
+		<SimpleData name="MinuteItem">18</SimpleData>
+		<SimpleData name="Latitude">39.2076140000</SimpleData>
+		<SimpleData name="Longitude">-120.0905890000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.090589,39.207614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">313</SimpleData>
+		<SimpleData name="GlobalID">{BA3B655D-4B8C-4773-A5D6-1052E95BCA8B}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">7312</SimpleData>
+		<SimpleData name="GeneralLocation">Pacific Ocean, city of Huntington Beach</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">07/10/1989</SimpleData>
+		<SimpleData name="LeaseExpirationDate">07/09/2038</SimpleData>
+		<SimpleData name="SLCApprovalDate">07/10/1989</SimpleData>
+		<SimpleData name="MinuteItem">21</SimpleData>
+		<SimpleData name="Latitude">33.6317260000</SimpleData>
+		<SimpleData name="Longitude">-117.9616230000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.961623,33.6317260000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">314</SimpleData>
+		<SimpleData name="GlobalID">{D67BB7BB-A548-416B-BFD5-106793D97862}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">7674</SimpleData>
+		<SimpleData name="GeneralLocation">two sites in the Mokelumne River</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">03/01/1993</SimpleData>
+		<SimpleData name="LeaseExpirationDate">02/28/2023</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/25/1993</SimpleData>
+		<SimpleData name="MinuteItem">8</SimpleData>
+		<SimpleData name="Latitude">38.2049770000</SimpleData>
+		<SimpleData name="Longitude">-121.0933210000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.093321,38.204977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">315</SimpleData>
+		<SimpleData name="GlobalID">{CAA0A69E-3FA3-4D26-80C7-10783CC68034}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">8203</SimpleData>
+		<SimpleData name="GeneralLocation">Pacific Ocean, offshore Manchester State Beach</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">07/01/2010</SimpleData>
+		<SimpleData name="LeaseExpirationDate">06/30/2025</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/23/2020</SimpleData>
+		<SimpleData name="MinuteItem">EO Rpt</SimpleData>
+		<SimpleData name="Latitude">38.9938290000</SimpleData>
+		<SimpleData name="Longitude">-123.7275580000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.727558,38.9938290000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">316</SimpleData>
+		<SimpleData name="GlobalID">{83D8234B-39D4-4B77-BBE5-108100CE3214}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">7879</SimpleData>
+		<SimpleData name="GeneralLocation">State-owned school land in Section 36, T32N R15E, MDM, north of Shinn Ranch Road</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Other</SimpleData>
+		<SimpleData name="LeaseStartDate">03/01/2019</SimpleData>
+		<SimpleData name="LeaseExpirationDate">02/28/2029</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/28/2019</SimpleData>
+		<SimpleData name="MinuteItem">81</SimpleData>
+		<SimpleData name="Latitude">40.5916740000</SimpleData>
+		<SimpleData name="Longitude">-120.2250280000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.225028,40.5916740000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">317</SimpleData>
+		<SimpleData name="GlobalID">{851B11D4-C463-488A-BAAB-10842BBD9BAF}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">6184</SimpleData>
+		<SimpleData name="GeneralLocation">Old River and Berm N, near Bacon Island</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">05/01/2006</SimpleData>
+		<SimpleData name="LeaseExpirationDate">04/30/2026</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/29/2021</SimpleData>
+		<SimpleData name="MinuteItem">24</SimpleData>
+		<SimpleData name="Latitude">37.9567250000</SimpleData>
+		<SimpleData name="Longitude">-121.5679200000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.56792,37.9567250000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">318</SimpleData>
+		<SimpleData name="GlobalID">{1A97A9AE-3DBD-43AB-BB66-10864D6B0387}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5373</SimpleData>
+		<SimpleData name="GeneralLocation">San Joaquin River, adjacent to Ward Island</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">03/01/2013</SimpleData>
+		<SimpleData name="LeaseExpirationDate">02/28/2023</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/22/2013</SimpleData>
+		<SimpleData name="MinuteItem">59</SimpleData>
+		<SimpleData name="Latitude">38.0426140000</SimpleData>
+		<SimpleData name="Longitude">-121.5040230000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.504023,38.0426140000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">319</SimpleData>
+		<SimpleData name="GlobalID">{F95495E1-7539-4D52-9014-1095A938700A}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">2714</SimpleData>
+		<SimpleData name="GeneralLocation">Stillwater Cove, Carmel Bay</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">11/01/2019</SimpleData>
+		<SimpleData name="LeaseExpirationDate">10/31/2029</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/28/2019</SimpleData>
+		<SimpleData name="MinuteItem">70</SimpleData>
+		<SimpleData name="Latitude">36.5661820000</SimpleData>
+		<SimpleData name="Longitude">-121.9429040000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.942904,36.566182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">320</SimpleData>
+		<SimpleData name="GlobalID">{00A1E44B-DEF9-42FC-914E-10A6BDC153BB}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">9136</SimpleData>
+		<SimpleData name="GeneralLocation">Colorado River, adjacent to 1150 Beach Drive, Needles</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational and Protective Structure Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/22/2020</SimpleData>
+		<SimpleData name="LeaseExpirationDate">08/21/2030</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/23/2021</SimpleData>
+		<SimpleData name="MinuteItem">34</SimpleData>
+		<SimpleData name="Latitude">34.8443550000</SimpleData>
+		<SimpleData name="Longitude">-114.5972440000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.597244,34.8443550000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">321</SimpleData>
+		<SimpleData name="GlobalID">{AC9770A2-52FB-45AE-96D0-10B72D42A76C}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">2457</SimpleData>
+		<SimpleData name="GeneralLocation">Lake Tahoe, adjacent to 5310 North Lake Boulevard, near Carnelian Bay</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">03/23/2023</SimpleData>
+		<SimpleData name="LeaseExpirationDate">03/22/2033</SimpleData>
+		<SimpleData name="SLCApprovalDate">10/25/2022</SimpleData>
+		<SimpleData name="MinuteItem">07</SimpleData>
+		<SimpleData name="Latitude">39.2254740000</SimpleData>
+		<SimpleData name="Longitude">-120.0750630000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.075063,39.2254740000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">322</SimpleData>
+		<SimpleData name="GlobalID">{CA1A1AEC-DCF6-447A-9CA2-10C343559FD7}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">1988</SimpleData>
+		<SimpleData name="GeneralLocation">Colorado River at Blythe</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/21/1957</SimpleData>
+		<SimpleData name="SLCApprovalDate">12/12/1957</SimpleData>
+		<SimpleData name="MinuteItem">26</SimpleData>
+		<SimpleData name="Latitude">33.6030640000</SimpleData>
+		<SimpleData name="Longitude">-114.5328230000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.532823,33.6030640000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">323</SimpleData>
+		<SimpleData name="GlobalID">{D4CF10B9-7291-401E-B4F2-10C91534E45B}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">6009</SimpleData>
+		<SimpleData name="GeneralLocation">Whiskey Slough, adjacent to 399 South Boulton Road, near Stockton</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">01/07/2019</SimpleData>
+		<SimpleData name="LeaseExpirationDate">01/06/2029</SimpleData>
+		<SimpleData name="SLCApprovalDate">12/06/2019</SimpleData>
+		<SimpleData name="MinuteItem">17</SimpleData>
+		<SimpleData name="Latitude">37.9667230000</SimpleData>
+		<SimpleData name="Longitude">-121.4654960000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.465496,37.9667230000001</coordinates></Point>
+  </Placemark>
+
+
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4639</SimpleData>
+		<SimpleData name="GlobalID">{D9CBEDE6-6C5F-4DDA-A83F-FF2582CE1325}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">2289</SimpleData>
+		<SimpleData name="GeneralLocation">Lake Tahoe, adjacent to 3650 North Lake Boulevard, near Kings Beach</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">05/24/2020</SimpleData>
+		<SimpleData name="LeaseExpirationDate">05/23/2030</SimpleData>
+		<SimpleData name="SLCApprovalDate">12/17/2020</SimpleData>
+		<SimpleData name="MinuteItem">14</SimpleData>
+		<SimpleData name="Latitude">39.1986440000</SimpleData>
+		<SimpleData name="Longitude">-120.0950300000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.09503,39.1986440000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4640</SimpleData>
+		<SimpleData name="GlobalID">{A787B971-C4F1-4094-B60D-FF26A7372E2F}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5265</SimpleData>
+		<SimpleData name="GeneralLocation">State indemnity school lands in Section 13, T10S R3W, SBM, north of Escondido</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Agricultural Use</SimpleData>
+		<SimpleData name="LeaseStartDate">04/01/2022</SimpleData>
+		<SimpleData name="LeaseExpirationDate">03/31/2042</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/25/2022</SimpleData>
+		<SimpleData name="MinuteItem">43</SimpleData>
+		<SimpleData name="Latitude">33.3092060000</SimpleData>
+		<SimpleData name="Longitude">-117.1464380000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.146438,33.3092060000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4641</SimpleData>
+		<SimpleData name="GlobalID">{4615384D-CA67-4876-AAFF-FF30A81B0618}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">7253</SimpleData>
+		<SimpleData name="GeneralLocation">Pacific Ocean at Salt Creek Beach Park, Dana Point</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">02/27/2018</SimpleData>
+		<SimpleData name="LeaseExpirationDate">02/26/2023</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/27/2018</SimpleData>
+		<SimpleData name="MinuteItem">C66</SimpleData>
+		<SimpleData name="Latitude">33.4736860000</SimpleData>
+		<SimpleData name="Longitude">-117.7216750000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.721675,33.473686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4642</SimpleData>
+		<SimpleData name="GlobalID">{BE847DFC-B54C-4152-A35F-FF4770B6932C}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">6739</SimpleData>
+		<SimpleData name="GeneralLocation">Sacramento River near Biggs Willow Road, near Butte City</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">10/01/1984</SimpleData>
+		<SimpleData name="LeaseExpirationDate">09/30/2033</SimpleData>
+		<SimpleData name="SLCApprovalDate">08/23/2019</SimpleData>
+		<SimpleData name="MinuteItem">06</SimpleData>
+		<SimpleData name="Latitude">39.4643830000</SimpleData>
+		<SimpleData name="Longitude">-121.9925880000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.992588,39.4643830000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4643</SimpleData>
+		<SimpleData name="GlobalID">{7C39B7CC-6C02-42F1-8ECA-FF4B6AE1156D}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">9314</SimpleData>
+		<SimpleData name="GeneralLocation">Mare Island Strait, adjacent to 22 Sandy Beach Road, near Vallejo</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Residential and Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">02/09/2016</SimpleData>
+		<SimpleData name="LeaseExpirationDate">02/08/2046</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/27/2018</SimpleData>
+		<SimpleData name="MinuteItem">C43</SimpleData>
+		<SimpleData name="Latitude">38.0753000000</SimpleData>
+		<SimpleData name="Longitude">-122.2395730000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.239573,38.0753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4644</SimpleData>
+		<SimpleData name="GlobalID">{9355D47C-5AF9-48C7-AD3A-FF50450883D7}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">2662</SimpleData>
+		<SimpleData name="GeneralLocation">Petaluma River, Machins Black Point Sub., Lot 11 near Black Point</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Other</SimpleData>
+		<SimpleData name="LeaseStartDate">10/01/1960</SimpleData>
+		<SimpleData name="LeaseExpirationDate">09/30/1970</SimpleData>
+		<SimpleData name="SLCApprovalDate">01/22/1962</SimpleData>
+		<SimpleData name="MinuteItem">10</SimpleData>
+		<SimpleData name="Latitude">38.1111420000</SimpleData>
+		<SimpleData name="Longitude">-122.5038070000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.503807,38.111142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4645</SimpleData>
+		<SimpleData name="GlobalID">{66E98CD7-43C7-44AA-972C-FF51CCA22A7D}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">6355</SimpleData>
+		<SimpleData name="GeneralLocation">former channel of the Colorado River within the Cibola National Wildlife Refuge, adjacent to T10S R21E, SBM; T11S R22E, SBM; T10S R22E, SBM</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/01/1982</SimpleData>
+		<SimpleData name="LeaseExpirationDate">07/31/2031</SimpleData>
+		<SimpleData name="SLCApprovalDate">11/29/1982</SimpleData>
+		<SimpleData name="MinuteItem">7</SimpleData>
+		<SimpleData name="Latitude">33.2937300000</SimpleData>
+		<SimpleData name="Longitude">-114.7269210000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.726921,33.29373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4646</SimpleData>
+		<SimpleData name="GlobalID">{4DB2A2B0-55F3-4332-9024-FF522D1A2FD3}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">9567</SimpleData>
+		<SimpleData name="GeneralLocation">Main Channel of Huntington Harbour, adjacent to 16882 Coral Cay Lane, Huntington Beach</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">06/28/2019</SimpleData>
+		<SimpleData name="LeaseExpirationDate">06/27/2029</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/28/2019</SimpleData>
+		<SimpleData name="MinuteItem">64</SimpleData>
+		<SimpleData name="Latitude">33.7170620000</SimpleData>
+		<SimpleData name="Longitude">-118.0630960000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.063096,33.7170620000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4647</SimpleData>
+		<SimpleData name="GlobalID">{BABDD7EE-4ADC-49B2-9E86-FF5366922DA1}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">3527</SimpleData>
+		<SimpleData name="GeneralLocation">Lake Tahoe, adjacent to 6940 Pomin Avenue, near Tahoma</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">05/01/2017</SimpleData>
+		<SimpleData name="LeaseExpirationDate">04/30/2027</SimpleData>
+		<SimpleData name="SLCApprovalDate">08/17/2017</SimpleData>
+		<SimpleData name="MinuteItem">C02</SimpleData>
+		<SimpleData name="Latitude">39.0696860000</SimpleData>
+		<SimpleData name="Longitude">-120.1292470000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.129247,39.069686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4648</SimpleData>
+		<SimpleData name="GlobalID">{5EC81CFD-7860-479C-9800-FF55C37553F0}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">6614</SimpleData>
+		<SimpleData name="GeneralLocation">Elk Slough, adjacent to 50265 Courtland Road, near Clarksburg</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Pier Lease</SimpleData>
+		<SimpleData name="LeaseStartDate">06/01/2009</SimpleData>
+		<SimpleData name="LeaseExpirationDate">05/31/2019</SimpleData>
+		<SimpleData name="SLCApprovalDate">06/01/2009</SimpleData>
+		<SimpleData name="MinuteItem">9</SimpleData>
+		<SimpleData name="Latitude">38.3374570000</SimpleData>
+		<SimpleData name="Longitude">-121.5818470000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.581847,38.337457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4649</SimpleData>
+		<SimpleData name="GlobalID">{0AD2A34F-ADED-47E2-B9DC-FF655F91C58B}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">9259</SimpleData>
+		<SimpleData name="GeneralLocation">Corte Madera Creek, adjacent to 69 Greenbrae Boardwalk, near the city of Larkspur</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">12/18/2015</SimpleData>
+		<SimpleData name="LeaseExpirationDate">12/17/2035</SimpleData>
+		<SimpleData name="SLCApprovalDate">08/23/2022</SimpleData>
+		<SimpleData name="MinuteItem">20</SimpleData>
+		<SimpleData name="Latitude">37.9420370000</SimpleData>
+		<SimpleData name="Longitude">-122.5108090000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.510809,37.942037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4650</SimpleData>
+		<SimpleData name="GlobalID">{AAF0AFCD-0B0A-4FFE-8D80-FF74B172EA89}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">7625</SimpleData>
+		<SimpleData name="GeneralLocation">Suisun Slough, city of Suisun</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">05/01/1992</SimpleData>
+		<SimpleData name="LeaseExpirationDate">04/30/2022</SimpleData>
+		<SimpleData name="SLCApprovalDate">05/05/1992</SimpleData>
+		<SimpleData name="MinuteItem">21</SimpleData>
+		<SimpleData name="Latitude">38.2363620000</SimpleData>
+		<SimpleData name="Longitude">-122.0382800000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.03828,38.236362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4651</SimpleData>
+		<SimpleData name="GlobalID">{0E793B25-77FD-4931-A981-FF7D41E6BCB1}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">645</SimpleData>
+		<SimpleData name="GeneralLocation">Kings River; Section 36, T17S R20E, MDM</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/29/1951</SimpleData>
+		<SimpleData name="SLCApprovalDate">08/29/1951</SimpleData>
+		<SimpleData name="MinuteItem">13</SimpleData>
+		<SimpleData name="Latitude">36.4015750000</SimpleData>
+		<SimpleData name="Longitude">-119.7518490000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.751849,36.401575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4652</SimpleData>
+		<SimpleData name="GlobalID">{B18277CC-66D2-4B24-8A18-FF84D88A1A4D}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5947</SimpleData>
+		<SimpleData name="GeneralLocation">Carquinez Strait at Port Costa</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">03/01/1981</SimpleData>
+		<SimpleData name="LeaseExpirationDate">02/28/2030</SimpleData>
+		<SimpleData name="SLCApprovalDate">01/26/1981</SimpleData>
+		<SimpleData name="MinuteItem">3</SimpleData>
+		<SimpleData name="Latitude">38.0481700000</SimpleData>
+		<SimpleData name="Longitude">-122.1833540000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.183354,38.04817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4653</SimpleData>
+		<SimpleData name="GlobalID">{DA79CCF1-8B81-4873-94FB-FF89257E670C}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">8134</SimpleData>
+		<SimpleData name="GeneralLocation">(1) San Joaquin River and Mayberry Slough along the Antioch bridge, Contra Costa and Sacramento Counties; (2) Sacramento River at Sherman Island, Sacramento and Solano Counties; and (3) Sacramento River in city of Sacramento, Sacramento and Yolo Coun</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">12/04/1999</SimpleData>
+		<SimpleData name="SLCApprovalDate">12/03/1999</SimpleData>
+		<SimpleData name="MinuteItem">52</SimpleData>
+		<SimpleData name="Latitude">38.0398840000</SimpleData>
+		<SimpleData name="Longitude">-121.7516430000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.751643,38.039884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4654</SimpleData>
+		<SimpleData name="GlobalID">{D4846A22-7CE4-413F-8928-FF897017A0BA}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">9181</SimpleData>
+		<SimpleData name="GeneralLocation">Annie Mason Slough, Suisun Bay, adjacent to Buckler Island</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">10/27/2014</SimpleData>
+		<SimpleData name="LeaseExpirationDate">10/26/2024</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/20/2015</SimpleData>
+		<SimpleData name="MinuteItem">45</SimpleData>
+		<SimpleData name="Latitude">38.0948660000</SimpleData>
+		<SimpleData name="Longitude">-122.0136790000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.013679,38.094866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4655</SimpleData>
+		<SimpleData name="GlobalID">{9D0848E7-7457-462A-80DC-FF8E89D8C03D}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">521</SimpleData>
+		<SimpleData name="GeneralLocation">Rush Creek at SS 61</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Public Agency Use</SimpleData>
+		<SimpleData name="LeaseStartDate">09/11/1950</SimpleData>
+		<SimpleData name="SLCApprovalDate">07/06/1950</SimpleData>
+		<SimpleData name="MinuteItem">13</SimpleData>
+		<SimpleData name="Latitude">38.1330270000</SimpleData>
+		<SimpleData name="Longitude">-122.5484410000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.548441,38.133027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4656</SimpleData>
+		<SimpleData name="GlobalID">{23188AA6-7EF0-4E70-9BA7-FF957CCBFE36}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">7525</SimpleData>
+		<SimpleData name="GeneralLocation">S1/2 S1/2 of Section 26 and S1/2 S1/4 of Section 27, T9N R2E, SBM</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">08/25/1955</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/06/1989</SimpleData>
+		<SimpleData name="MinuteItem">43</SimpleData>
+		<SimpleData name="Latitude">34.8388860000</SimpleData>
+		<SimpleData name="Longitude">-116.7459940000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-116.745994,34.8388860000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4657</SimpleData>
+		<SimpleData name="GlobalID">{92ADA8EE-F4F8-4F81-86F6-FF95E1E70042}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">8909</SimpleData>
+		<SimpleData name="GeneralLocation">State indemnity school land in a portion of Sections 27 and 28, T16S R9E, SBM, northwest of Coyote Wells</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">12/10/2010</SimpleData>
+		<SimpleData name="LeaseExpirationDate">12/09/2035</SimpleData>
+		<SimpleData name="SLCApprovalDate">10/22/2020</SimpleData>
+		<SimpleData name="MinuteItem">39</SimpleData>
+		<SimpleData name="Latitude">32.7474620000</SimpleData>
+		<SimpleData name="Longitude">-116.0363090000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-116.036309,32.747462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4658</SimpleData>
+		<SimpleData name="GlobalID">{D3778CD2-9303-4325-99F0-FFBB7CEA58F3}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">6827</SimpleData>
+		<SimpleData name="GeneralLocation">various waterways, in various counties, statewide</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Right of Way Use</SimpleData>
+		<SimpleData name="LeaseStartDate">05/01/2015</SimpleData>
+		<SimpleData name="LeaseExpirationDate">04/30/2045</SimpleData>
+		<SimpleData name="SLCApprovalDate">02/20/2015</SimpleData>
+		<SimpleData name="MinuteItem">44</SimpleData>
+		<SimpleData name="Latitude">40.4718980000</SimpleData>
+		<SimpleData name="Longitude">-122.3114570000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.311457,40.4718980000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4659</SimpleData>
+		<SimpleData name="GlobalID">{BCE64342-06FF-4ABA-9EB9-FFC710C63BEE}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5276</SimpleData>
+		<SimpleData name="GeneralLocation">Lake Tahoe, adjacent to 5680 North Lake Boulevard, near Carnelian Bay</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Use</SimpleData>
+		<SimpleData name="LeaseStartDate">06/28/2016</SimpleData>
+		<SimpleData name="LeaseExpirationDate">06/27/2026</SimpleData>
+		<SimpleData name="SLCApprovalDate">04/20/2017</SimpleData>
+		<SimpleData name="MinuteItem">09</SimpleData>
+		<SimpleData name="Latitude">39.2322780000</SimpleData>
+		<SimpleData name="Longitude">-120.0696360000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.069636,39.2322780000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#CA_State_Lands_Commission_Leases">
+		<SimpleData name="OBJECTID">4660</SimpleData>
+		<SimpleData name="GlobalID">{18B26569-42F1-4C5C-B494-FFD87AE6C79A}</SimpleData>
+		<SimpleData name="CreationDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Creator">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="EditDate">2023/02/22 09:02:20+00</SimpleData>
+		<SimpleData name="Editor">CA_State_Lands_Commission</SimpleData>
+		<SimpleData name="RecordStatus">Active</SimpleData>
+		<SimpleData name="LeaseNum">5799</SimpleData>
+		<SimpleData name="GeneralLocation">Huntington Harbour, Huntington Beach</SimpleData>
+		<SimpleData name="LeaseorPermit">General Lease</SimpleData>
+		<SimpleData name="TypeofLease">Recreational Pier Lease</SimpleData>
+		<SimpleData name="LeaseStartDate">03/27/1990</SimpleData>
+		<SimpleData name="LeaseExpirationDate">03/26/2000</SimpleData>
+		<SimpleData name="SLCApprovalDate">03/27/1990</SimpleData>
+		<SimpleData name="MinuteItem">2</SimpleData>
+		<SimpleData name="Latitude">33.7249500000</SimpleData>
+		<SimpleData name="Longitude">-118.0733290000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.073329,33.72495</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
